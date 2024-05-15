@@ -3,3 +3,5 @@ hi Mysore: addd
 
 
 hello how do you do...in this class
+
+friend new feature
